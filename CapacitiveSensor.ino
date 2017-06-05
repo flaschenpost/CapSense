@@ -18,9 +18,6 @@ int rechts = 0;
 // nicht jede Aenderung soll am Display rumflackern
 #define SCHWELLE 3
 
-/* Nach Display-Update warten */
-unsigned long delaytime=200;
-
 // Initialisierung des Displays aus einem Bibliotheksbeispiel
 void setup() {
   /*

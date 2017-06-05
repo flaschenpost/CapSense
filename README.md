@@ -1,4 +1,4 @@
-# CapSense
+# CapacitiveSensor
 Very simple Arduino combination of ADCTouch and 7 Segment Display
 
 Simply combining ADCTouch with a 7-Segment Output to show the measured "capacity" of a piece of alloy foil
